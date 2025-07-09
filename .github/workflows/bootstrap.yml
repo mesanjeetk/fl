@@ -22,7 +22,7 @@ jobs:
 
       - name: Create Flutter Project
         run: |
-          flutter create musicx
+          flutter create learningflutter
 
       - name: Commit changes
         run: |
