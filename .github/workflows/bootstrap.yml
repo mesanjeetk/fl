@@ -22,7 +22,7 @@ jobs:
 
       - name: Create Flutter Project
         run: |
-          flutter create learningflutter
+          flutter create tilt_game
 
       - name: Commit changes
         run: |
