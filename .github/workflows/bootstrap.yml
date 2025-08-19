@@ -22,7 +22,7 @@ jobs:
 
       - name: Create Flutter Project
         run: |
-          flutter create neetx
+          flutter create openwith
 
       - name: Commit changes
         run: |
