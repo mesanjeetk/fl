@@ -22,7 +22,7 @@ jobs:
 
       - name: Create Flutter Project
         run: |
-          flutter create openwith
+          flutter create codex
 
       - name: Commit changes
         run: |
